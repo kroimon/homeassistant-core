@@ -4885,6 +4885,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "skyrc": {
+      "name": "SkyRC",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "slack": {
       "name": "Slack",
       "integration_type": "service",

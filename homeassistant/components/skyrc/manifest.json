@@ -1,0 +1,16 @@
+{
+  "domain": "skyrc",
+  "name": "SkyRC",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/skyrc",
+  "requirements": [],
+  "dependencies": ["bluetooth"],
+  "codeowners": ["@kroimon"],
+  "bluetooth": [
+    {
+      "local_name": "Charger",
+      "service_uuid": "0000ffe0-0000-1000-8000-00805f9b34fb"
+    }
+  ],
+  "iot_class": "local_polling"
+}

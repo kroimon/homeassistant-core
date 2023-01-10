@@ -1055,6 +1055,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/sky_hub/ @rogerselwyn
 /homeassistant/components/skybell/ @tkdrob
 /tests/components/skybell/ @tkdrob
+/homeassistant/components/skyrc/ @kroimon
+/tests/components/skyrc/ @kroimon
 /homeassistant/components/slack/ @bachya @tkdrob
 /tests/components/slack/ @bachya @tkdrob
 /homeassistant/components/sleepiq/ @mfugate1 @kbickar

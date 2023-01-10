@@ -312,6 +312,11 @@ BLUETOOTH: list[dict[str, bool | str | int | list[int]]] = [
         "local_name": "SensorPush*",
     },
     {
+        "domain": "skyrc",
+        "local_name": "Charger",
+        "service_uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+    },
+    {
         "domain": "snooz",
         "local_name": "Snooz*",
     },

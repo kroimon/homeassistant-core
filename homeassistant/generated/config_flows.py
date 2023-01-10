@@ -373,6 +373,7 @@ FLOWS = {
         "simplepush",
         "simplisafe",
         "skybell",
+        "skyrc",
         "slack",
         "sleepiq",
         "slimproto",
